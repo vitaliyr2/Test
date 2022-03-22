@@ -3,4 +3,4 @@ x=list(set(vlans))
 print(sorted(x))
 5
 6
-
+7
