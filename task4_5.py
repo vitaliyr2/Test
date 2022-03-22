@@ -9,4 +9,4 @@ y1=(set((y.split(","))))
 
 z=list(x1.union(y1))
 print(z)
-print(z)
+1
